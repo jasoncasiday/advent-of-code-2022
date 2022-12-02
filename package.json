@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "d01p01": "node d01p01.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncasiday/advent-of-code-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncasiday/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/jasoncasiday/advent-of-code-2022#readme"
+}
