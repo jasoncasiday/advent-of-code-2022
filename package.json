@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "d01p01": "node d01p01.js"
+    "d01p01": "node d01p01.js",
+    "d01p02": "node d01p02.js"
   },
   "repository": {
     "type": "git",
